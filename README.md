@@ -10,7 +10,10 @@ This project documents my personal cybersecurity home lab used to simulate attac
 - Perform vulnerability scanning with Nmap
 
 ## Lab Architecture
+
+![Lab Architecture](architecture/homelab-architecture.png)
 The lab consists of multiple virtual machines connected in an isolated internal network.
+
 
 Machines used:
 - Kali Linux (Attacker)
