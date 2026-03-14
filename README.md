@@ -11,7 +11,7 @@ This project documents my personal cybersecurity home lab used to simulate attac
 
 ## Lab Architecture
 
-![Lab Architecture](architecture/homelab-architecture.png)
+![Lab Architecture](https://github.com/Yassuo117/Cybersecurity-Homelab/blob/main/architecture/architecture_homelab.drawio.png)
 The lab consists of multiple virtual machines connected in an isolated internal network.
 
 
